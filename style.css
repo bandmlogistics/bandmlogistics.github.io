@@ -26,7 +26,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
     color: #272727;
-    background-color: #a7e518;
+    background-color: #eeeeee;
 }
 ol, ul {
 	list-style: none;
@@ -56,5 +56,5 @@ h1 {
 }
 
 .top {
-    background-color: #9500f0;
+    background-color: #0f0fff;
 }
